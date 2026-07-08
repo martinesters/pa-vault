@@ -58,6 +58,25 @@ Beispiele:
 Stderr voller Python-3.9-FutureWarnings → mit grep -viE rausfiltern.
 Re-Auth bei Bedarf: `gcal_auth.py url ~/.config/gcalcli-N` → Link → `gcal_auth.py exchange ...`.
 
+## Gmail (eigenes Python-Tool)
+
+Gleiches OAuth-Projekt wie Kalender. Tools in `~/PA/tools/`:
+- `gmail_auth.py url <token_dir>` / `exchange <token_dir> "<url>"` – Fern-Login (Scopes: gmail.modify/compose/send).
+- `gmail.py <token_dir> <cmd>` – CLI: `whoami`, `list [query] [max]`, `read <id>`, `draft <to> <subject> <body_file>`, `send <to> <subject> <body_file>`.
+
+Token liegt als `<token_dir>/gmail_token.json` (dieselben token_dirs wie Kalender):
+- **Account 1 (privat):** `~/.config/gcalcli-1` → martinesters88@gmail.com
+- **Account 2 (Business):** `~/.config/gcalcli-2` → martin@screenondemand.de
+
+Beispiele:
+```
+~/.gcalcli-venv/bin/python ~/PA/tools/gmail.py ~/.config/gcalcli-1 list "is:unread" 10
+~/.gcalcli-venv/bin/python ~/PA/tools/gmail.py ~/.config/gcalcli-2 read <id>
+~/.gcalcli-venv/bin/python ~/PA/tools/gmail.py ~/.config/gcalcli-1 draft "x@y.de" "Betreff" /tmp/body.txt
+```
+Workflow-Regel (AGENTS.md): Mails als **Entwurf** ablegen, Martin sendet. `send` nur auf ausdrücklichen Wunsch.
+Gmail-Query-Syntax nutzbar (is:unread, from:, newer_than:7d, in:inbox …).
+
 ## Related
 
 - [Agent workspace](/concepts/agent-workspace)
