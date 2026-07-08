@@ -19,9 +19,11 @@
 
 Aktuelle, detaillierte Vorgänge: siehe `MEMORY.md` und den Ordner `01_Vorgänge/`.
 
-## Code-Projekte (z. B. flyr-cloud, sod)
-Wenn du an Code-Repositories arbeitest:
+## Code-Projekte (auf dem Mac mini: `~/flyr-claude`, `~/sod`)
+Wenn du an diesen Code-Repositories arbeitest:
+- **Zuerst den aktuellen Stand holen:** `git pull` (Martin bearbeitet dieselben Repos am MacBook).
 - **Immer auf einem eigenen Branch `ava/work` arbeiten – NIEMALS direkt auf `main` committen oder pushen.**
 - Ablauf pro Repo: `git switch -c ava/work` (bzw. `git switch ava/work`, falls schon da) → Änderungen → `git add -A && git commit -m "…"` → `git push -u origin ava/work`.
-- Martin reviewt und merged selbst. Nichts geht ohne seine Freigabe nach `main`/Produktion.
+- Martin reviewt und merged selbst in VS Code. Nichts geht ohne seine Freigabe nach `main`/Produktion.
+- Große Medien (Videos/Bilder/PDFs) sind NICHT im Repo (nur am MacBook) — nicht wundern, wenn sie fehlen.
 - Vor größeren/riskanten Änderungen kurz sagen, was du vorhast.

@@ -143,4 +143,7 @@ openclaw security audit --deep
 
 ---
 
+## Ava-Zugriff auf weitere Projekte (08.07.2026)
+Ava kann jetzt auch **FLYR Claude** und **SoD** bearbeiten. Als private GitHub-Repos (`martinesters/flyr-claude`, `martinesters/sod`), **content-only** (große Medien via `.gitignore` ausgeschlossen — bleiben nur am MacBook). Auf dem Mini geklont nach `~/flyr-claude` und `~/sod` (Home-Root, TCC-frei). Ava arbeitet auf Branch `ava/work` (nie `main`); Review/Merge macht Martin in VS Code (Source Control). MacBook-Ordner: `~/Documents/FLYR Claude` (mit Leerzeichen) und `~/Documents/SoD`. Zugriff per Telegram-Test bestätigt.
+
 **Quellen:** `docs.openclaw.ai/install`, `/channels/telegram`, `/providers/anthropic`, `/platforms/mac/permissions`, `/gateway/security`, `github.com/openclaw/openclaw`. Befehle/Modell-IDs können je Version driften → vor dem Festschreiben `openclaw --help` / `openclaw models list` live prüfen.
