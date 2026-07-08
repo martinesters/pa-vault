@@ -67,6 +67,7 @@ Gleiches OAuth-Projekt wie Kalender. Tools in `~/PA/tools/`:
 Token liegt als `<token_dir>/gmail_token.json` (dieselben token_dirs wie Kalender):
 - **Account 1 (privat):** `~/.config/gcalcli-1` → martinesters88@gmail.com
 - **Account 2 (Business):** `~/.config/gcalcli-2` → martin@screenondemand.de
+- **Ava (eigenes Postfach):** `~/.config/gcalcli-ava` → ava.esters@gmail.com (zum Senden in Avas Namen)
 
 Beispiele:
 ```
