@@ -7,7 +7,7 @@ Kurz-Index der laufenden Themen und bekannten Fakten. Details je Vorgang im Ordn
 - **Parkplatz Elisabethstraße:** sucht Dauerstellplatz ≤10 Min zur Wohnung; Mail-Entwürfe + Kleinanzeigen raus (30.06.), nachhaken.
 - **MUVN Vollmacht:** ✅ erledigt (08.07.2026) – Vollmacht/Unterlagen für Notartermin 13.07. Hamburg abgeschickt.
 - **Allianz G63 Diebstahl:** G63 am 09.05.2026 in Düsseldorf gestohlen; Fragebogen (AS2026-90589564) ausgefüllt; offen: unterschreiben, abmelden, COC, per Einschreiben an Allianz.
-- **Wilson Padel Bag:** Bestellung #WILDEDE0220566 (Defy V1 Padel Bag, 434,40 € Amex) laut UPS zugestellt, nicht erhalten; Beschwerde 06.07. (Wilson-Ticket 11197655); nachhaken ab ~10.07.
+- **Wilson Padel Bag:** Bestellung #WILDEDE0220566 (Defy V1 Padel Bag, 434,40 € Amex); Paket von UPS an Wilson-Lager retourniert, dort am 06.07. eingetroffen. Wilson (Ticket 11197655) löst Rückerstattung automatisch aus → Refund-Eingang ~18.07. prüfen, sonst nachhaken.
 - **iPhone-Umzug 15 → 17 Pro Max:** ab 08.07.2026; Trade-Republic-4-Tage-Sperre + physische SIM beachten; Checkliste im Vault.
 - **Padel-Highlight-Video:** DJI-Pocket-4-Highlight-Pipeline in `~/PadelHighlights/`; Follow-Cam-Politur offen.
 
