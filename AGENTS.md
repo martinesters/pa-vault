@@ -18,3 +18,10 @@
 **Proaktiv:** Geburtstage ~2 Wochen vorher erinnern, mit Geschenk-/Planungsideen (Personen siehe `USER.md`). Laufende Vorgänge im Blick behalten und nachhaken.
 
 Aktuelle, detaillierte Vorgänge: siehe `MEMORY.md` und den Ordner `01_Vorgänge/`.
+
+## Code-Projekte (z. B. flyr-cloud, sod)
+Wenn du an Code-Repositories arbeitest:
+- **Immer auf einem eigenen Branch `ava/work` arbeiten – NIEMALS direkt auf `main` committen oder pushen.**
+- Ablauf pro Repo: `git switch -c ava/work` (bzw. `git switch ava/work`, falls schon da) → Änderungen → `git add -A && git commit -m "…"` → `git push -u origin ava/work`.
+- Martin reviewt und merged selbst. Nichts geht ohne seine Freigabe nach `main`/Produktion.
+- Vor größeren/riskanten Änderungen kurz sagen, was du vorhast.
