@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SmartCJM//NONSGML SmartCX v1.0//DE
+BEGIN:VEVENT
+DTSTART:20260707T074500Z
+DTEND:20260707T075000Z
+DTSTAMP:20260703T113832Z
+UID:rhein-kreis-neuss_fdbe6d30-16f3-4f3e-a9fc-b04bf013d93e@smart-cjm.com
+CREATED:20260703T113832Z
+LAST-MODIFIED:20260703T113832Z
+LOCATION:Servicecenter Neuss 
+SUMMARY:Termin Servicecenter Neuss 
+DESCRIPTION:
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+X-ALT-DESC;FMTTYPE=text/html:Ihr Terming für den 07.07.2026 um 09:45 Uhr.\n<p>Ort:<br />\nServicecenter Neuss <br />\nOberstraße 91<br />\n41460 Neuss<br />\n</p>\n<p>Informieren Sie sich bitte rechtzeitig über die mitzubringenden Unterlagen, beispielsweise mit Hilfe des Internet-Links unterhalb der Dienstleistung(en).</p>\n<u>Ihre Termin-Nummer:</u>\n<div><b> S00003</b></div>\n<p><b><u>Wichtige Hinweise zur Terminreservierung</u></b><br /><br />\n            <b><i> >> Ein Aufruf erfolgt nur nach Terminaktivierung << </i></b><br /><br />\n            Bitte <b>aktivieren Sie Ihren Termin</b> im Wartebereich <b>Servicecenter Neuss </b>. Dafür halten Sie, nach Auswahl der Funktion "Termin-Checkin", den nachfolgenden <b>Termin-QR-Code</b> an das Lesegerät des Touchscreen-Terminals. Alternativ können Sie die Aktivierung auch durch Eingabe Ihres Geburtsdatums manuell am Terminal vornehmen.<br />\n<b><u>Ihr Termin-QR-Code:</u></b>\n<div> <img class="qrcode" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFIAAABSAQMAAAD94hHYAAAABlBMVEUAAAD///+l2Z/dAAAA70lEQVR4nLXTzaoEIAgFYMFt0KsIboXz6kJboVcJ2gbeGJgfnLsdV19geRCifJXTT0ys4iaEYuyVU3dWiw4aR/nbQcb/WaD5bezGk5/vv30z3HrleTkzVMcz/9tO0ScOUDy77+Xk1UaWu98YxbObpMdAsbGETiCLeycG+UZxu3NinJXFI7SdZo+eT5v2szZaFkczabYePZ9ui25iO1l8jHja8Gpda8Y9obh19hEyqiHhUJcslnNXO/uohowzzl1kcSbPe5tRfDe1elPOYuxOyRAUizLtST2/rSBTfFnDkzOLsU0bBVcT32Ebp/q3/+4PHMIjsewEyE8AAAAASUVORK5CYII=" /> </div>\n<br />Die Aktivierung Ihres Termins können Sie innerhalb der regulären Öffnungszeiten frühestens 30 Minuten vor Beginn des Termins vornehmen. Der Aufruf erfolgt dann zur gebuchten Terminzeit. Im Falle einer Verspätung besteht die Möglichkeit den Termin bis zu 30 Minuten nach gebuchter Zeit zu aktivieren. Sie werden danach schnellstmöglich aufgerufen.\n</p>\n<p>\n\n</p>\n<p>\n<b>Noch eine dringende Bitte:</b> Wenn Sie Ihren Termin nicht wahrnehmen können, geben Sie ihn bitte für andere Kunden wieder frei, in dem Sie den <a href="https://termine.rhein-kreis-neuss.de/m/rhein-kreis-neuss/extern/calendar/cancel?uid=c9ad0501-0e20-4aa2-bd10-52dedb8dcb3d&appointment_uid=fdbe6d30-16f3-4f3e-a9fc-b04bf013d93e&sec=W9ArxH&lang=de"><b>Termin stornieren</b></a>.\n</p>\nIhre gewählte(n) Dienstleistung(en):<br />\n\n  \n    \n      <b><i>1 x Außerbetriebsetzung  eines Kfz</i></b>.<br />\n      Für weitere Informationen klicken Sie bitte <a href="https://www.rhein-kreis-neuss.de/de/verwaltung-politik/aemterliste/strassenverkehrsamt/dienstleistungen/ausserbetriebsetzung/" target="_blank">hier</a>
+.<br />\n    \n  \n\n
+END:VEVENT
+END:VCALENDAR

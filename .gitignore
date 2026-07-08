@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# Obsidian App-Konfiguration (nur Inhalte versionieren, nicht die App-Einstellungen)
+.obsidian/
+.trash/
+
+# Temporäre Tool-Artefakte
+.playwright-mcp/
