@@ -1,6 +1,6 @@
 # OpenClaw auf Mac mini einrichten (08.07.2026)
 
-**Status:** ✅ Läuft (08.07.2026) — Bot `@martin_esters_pa_bot` antwortet auf Telegram · **Ziel:** OpenClaw läuft 24/7 auf dem Mac mini und ist per Telegram steuerbar
+**Status:** ✅ Läuft (08.07.2026) — Bot `@martin_esters_pa_bot` antwortet auf Telegram; **geteiltes Gehirn (Git-Auto-Sync) live** zwischen Mac mini (`~/PA`) und MacBook (`~/Documents/PA`) via privatem GitHub-Repo `martinesters/pa-vault` · **Ziel:** OpenClaw läuft 24/7 auf dem Mac mini und ist per Telegram steuerbar
 
 > **Ergebnis / Abweichungen vom Plan (08.07.2026):** Node NICHT via Homebrew (dessen Auto-Install scheiterte an non-TTY/sudo beim `curl|bash`), sondern **offizieller Node-.pkg von nodejs.org**, dann `sudo npm install -g openclaw@latest`. Danach Rechte-Fix nötig: `sudo chown -R martin ~/.openclaw` (EACCES, weil sudo-Install den Ordner root gab). Telegram wurde im Wizard NICHT abgefragt → **manuell** verbunden: `openclaw config set channels.telegram.{enabled true | botToken "…" | dmPolicy allowlist | allowFrom '["tg:7428142565"]'}`, dann `openclaw daemon restart`. Modell: Sonnet. Guthaben: $20 hart (kein Auto-Reload). Gateway loopback, gesund. **Noch offen/optional:** Auto-Login (für unbeaufsichtigten Reboot), `chmod 700 ~/.openclaw`, Gmail-Entwürfe mit Key/Token löschen, Reboot-Test, `openclaw security audit --deep`.
 **KI-Zugang:** Anthropic API-Key (Pay-as-you-go) · **Vorlage:** Video „Clawd Bot einrichten" von Johannes Kliesch
