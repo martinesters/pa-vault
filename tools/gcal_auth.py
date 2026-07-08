@@ -29,7 +29,7 @@ def cmd_url(config_folder):
         access_type="offline", prompt="consent", include_granted_scopes="true")
     os.makedirs(config_folder, exist_ok=True)
     with open(os.path.join(config_folder, ".auth_state.json"), "w") as f:
-        json.dump({"state": state}, f)
+        json.dump({"state": state, "code_verifier": flow.code_verifier}, f)
     print(auth_url)
 
 def extract_code(arg):
@@ -44,6 +44,12 @@ def cmd_exchange(config_folder, redirect_arg):
     if not code:
         print("FEHLER: kein code gefunden", file=sys.stderr); sys.exit(1)
     flow = make_flow()
+    state_path = os.path.join(config_folder, ".auth_state.json")
+    if os.path.exists(state_path):
+        with open(state_path) as f:
+            st = json.load(f)
+        if st.get("code_verifier"):
+            flow.code_verifier = st["code_verifier"]
     flow.fetch_token(code=code)
     creds = flow.credentials
     oauth_path = os.path.join(config_folder, "oauth")
