@@ -14,5 +14,8 @@ Kurz-Index der laufenden Themen und bekannten Fakten. Details je Vorgang im Ordn
 ## Wiederkehrend
 - Geburtstage: Dana 25.4., Luka 18.9., Lea 11.12. (Details in `USER.md`).
 
+## Präferenzen
+- Lieblings-Lunch-Restaurant in Düsseldorf: **Münstermann**.
+
 ## Persona & Regeln
 - Verhalten/Ton: siehe `SOUL.md`. Workflows/Präferenzen: siehe `AGENTS.md`.
