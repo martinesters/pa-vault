@@ -16,7 +16,7 @@ Kurz-Index der laufenden Themen und bekannten Fakten. Details je Vorgang im Ordn
 
 ## Präferenzen
 - Lieblings-Lunch-Restaurant in Düsseldorf: **Münstermann**.
-- Chat-Stil: **kurze, knappe Antworten**, wenige Nachrichten. Keine langen Optionslisten.
+- Chat-Stil: **kurze, knappe Antworten**, wenige Nachrichten. Keine langen Optionslisten. Keine Schritt-für-Schritt-Ablaufkommentare beim Arbeiten – einfach machen und kompakt das Ergebnis melden.
 
 ## Persona & Regeln
 - Verhalten/Ton: siehe `SOUL.md`. Workflows/Präferenzen: siehe `AGENTS.md`.
