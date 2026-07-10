@@ -11,6 +11,12 @@ Kurz-Index der laufenden Themen und bekannten Fakten. Details je Vorgang im Ordn
 - **iPhone-Umzug 15 → 17 Pro Max:** ab 08.07.2026; Trade-Republic-4-Tage-Sperre + physische SIM beachten; Checkliste im Vault.
 - **Padel-Highlight-Video:** DJI-Pocket-4-Highlight-Pipeline in `~/PadelHighlights/`; Follow-Cam-Politur offen.
 
+## Familie / Personen
+- **Jana Esters** – (Noch-)Ehefrau, getrennt lebend (noch nicht geschieden), Mutter von Lea & Luka. War früher bei ME Digital angestellt.
+- **Dana Ackermann** – aktuelle Partnerin.
+- Kinder: **Lea** & **Luka**.
+- Google-Drive-Überblick (Firmen ME Digital/ME Immo/SoD/FLYR/MUVN, Fahrzeuge, Finanzen, Haus): `01_Vorgänge/Drive-Ueberblick.md`.
+
 ## Wiederkehrend
 - Geburtstage: Dana 25.4., Luka 18.9., Lea 11.12. (Details in `USER.md`).
 
