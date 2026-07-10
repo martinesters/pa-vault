@@ -78,6 +78,26 @@ Beispiele:
 Workflow-Regel (AGENTS.md): Mails als **Entwurf** ablegen, Martin sendet. `send` nur auf ausdrücklichen Wunsch.
 Gmail-Query-Syntax nutzbar (is:unread, from:, newer_than:7d, in:inbox …).
 
+## Google Drive (eigenes Python-Tool, readonly)
+
+Gleiches OAuth-Projekt wie Kalender/Gmail. Tools in `~/PA/tools/`:
+- `drive_auth.py url <token_dir>` / `exchange <token_dir> "<url>"` – Fern-Login (Scopes: drive.readonly + gmail.*).
+- `drive.py <token_dir> <cmd>` – CLI: `whoami`, `list [query] [max]`, `tree [folder_id]`, `get <file_id> [outfile]`, `cat <file_id>`.
+
+Token: `<token_dir>/drive_token.json`. Aktuell eingerichtet:
+- **Account 1 (privat):** `~/.config/gcalcli-1` → martinesters88@gmail.com – Drive aktiv.
+
+Drive API muss im Cloud-Projekt (1068009843883 / ava-calendar-501820) aktiviert sein (erledigt 10.07.2026).
+Google Docs/Sheets werden beim `get` automatisch exportiert (Docs→PDF, Sheets→xlsx). Freitext-Suche oder Drive-Query-Syntax (`name contains '...'`, `mimeType=...`).
+
+Beispiele:
+```
+~/.gcalcli-venv/bin/python ~/PA/tools/drive.py ~/.config/gcalcli-1 list "G63" 15
+~/.gcalcli-venv/bin/python ~/PA/tools/drive.py ~/.config/gcalcli-1 tree <folder_id>
+~/.gcalcli-venv/bin/python ~/PA/tools/drive.py ~/.config/gcalcli-1 cat <file_id>
+```
+Stderr-FutureWarnings mit grep -viE rausfiltern (wie bei gcalcli/gmail).
+
 ## Related
 
 - [Agent workspace](/concepts/agent-workspace)
