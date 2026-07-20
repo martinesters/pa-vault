@@ -20,9 +20,10 @@ Firmenanteile bleiben bei dir; nur ihr **Wertzuwachs während der Ehe** fließt 
 |---|---|---|---|
 | **Wohnung Mallorca** | Kaufpreis **1,4 Mio € cash** | ? auf wen im escritura | Eigentümer, Kaufdatum, aktueller Wert |
 | **Haus Karl-Rüsing-Str. 2** (Meerbusch) | Grundbuch/Statik/Baukosten im Drive; Pool, Terrasse, PV | ? | Eigentümeranteile, Wert, Restschuld |
-| **SoD ScreenOnDemand** | Anteile via Holding **ME Digital Marketing GmbH** | Martin (mittelbar) | Beteiligungsquote, Unternehmenswert |
-| **ME Digital Marketing GmbH** | Holding | Martin | 100 %? Anteil Jana? |
-| **ME Immobilienverwaltung GmbH** | 2024 gegr. | Martin | Zweck, Wert |
+| **SoD ScreenOnDemand** | 15 % Beteiligung, Bewertung 60 Mio → Wert **9 Mio €** | Martin | Finanziert via Darlehen 3 Mio € → **Nettowert 6 Mio €** |
+| **ME Digital Marketing GmbH** | Holding | Martin | 100 %? Wert? |
+| **ME Retail GmbH** | 50/50 Martin + Jana | Beide je 50 % | Wert? |
+| **ME Immobilienverwaltung GmbH** | 50/50 Martin + Jana, Immobilien ~1 Mio € drin | Beide je 50 % | Restschulden auf Immobilien? |
 | **MUVN** | Seed-Beteiligung via ME Digital (Notar 14.07.) | Martin (mittelbar) | Investsumme |
 | **Autos** | G63 (gestohlen→Allianz), BMW X5, Tesla Model S | ? | Halter/Eigentümer, Werte |
 | **Konten** | ING (Giro + Gemeinschaftskonto mit Jana), N26, Commerzbank | tw. gemeinsam | Salden Stichtag |
