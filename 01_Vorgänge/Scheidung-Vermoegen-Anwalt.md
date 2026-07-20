@@ -28,14 +28,20 @@ Firmenanteile bleiben bei dir; nur ihr **Wertzuwachs während der Ehe** fließt 
 | **Konten** | ING (Giro + Gemeinschaftskonto mit Jana), N26, Commerzbank | tw. gemeinsam | Salden Stichtag |
 | **Geldanlage** | Oskar/Baader (evtl. Kinder) | ? | Depotwerte |
 
-## Offene Rückfragen an Martin
-1. **Heiratsdatum** + grober Vermögensstand bei Heirat (Anfangsvermögen)? Wichtigster Hebel.
-2. **Mallorca-Wohnung:** auf wen läuft der escritura – nur du, oder du+Jana? Kauf wann?
-3. **Haus Meerbusch:** Eigentümeranteile im Grundbuch, aktueller Marktwert, Restdarlehen?
-4. **ME Digital GmbH:** Hältst du 100 %? Ist Jana Gesellschafterin oder war sie es je?
-5. **SoD:** Deine Beteiligungsquote + grobe aktuelle Bewertung/letzte Finanzierungsrunde?
-6. **Trennungsdatum** (offiziell) – Fristen für Trennungsjahr/Unterhalt.
-7. Gibt es schon eine **Trennungs-/Unterhaltsvereinbarung** mit Jana?
+## Bestätigte Eckdaten (20.07.2026)
+- **Heiratsdatum:** 14.09.2014
+- **Trennungsdatum:** 01.07.2025 → Trennungsjahr abgelaufen, Scheidungsantrag ab sofort möglich
+- **Anfangsvermögen Martin bei Heirat:** ~0 €
+- **Mallorca:** auf beiden Namen (Martin + Jana) → je 50 %
+- **Meerbusch:** auf beiden Namen + Grundschuld vorhanden
+- **SoD:** 15 % Beteiligung, letzte Bewertung 60 Mio € → Martins Anteil = **9 Mio €**
+- **SoD gegründet 2017 → NACH der Heirat** → vollständig zugewinnrelevant
+
+## Noch offen
+- Meerbusch: aktueller Marktwert + Restschuld Grundschuld
+- ME Digital GmbH: Wert, 100 % Martin?
+- Janas Anfangsvermögen bei Heirat
+- Unterhaltsvereinbarung mit Jana vorhanden?
 
 ## Vorgehensplan
 1. **Anwalt:** Fachanwalt Familienrecht Düsseldorf, spezialisiert auf **Unternehmer-/Vermögensscheidungen** (Firmenbewertung, internationale Immobilie ES). → Ava sucht 2–3 Kandidaten.
