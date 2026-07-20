@@ -45,6 +45,14 @@ Firmenanteile bleiben bei dir; nur ihr **Wertzuwachs während der Ehe** fließt 
 5. **Liquiditätsplanung:** Zugewinnausgleich ist Geldschuld → prüfen, woher (ohne Firmenanteile zu verkaufen).
 6. **Kinder:** Kindesunterhalt (Düsseldorfer Tabelle), Sorge-/Umgangsregelung.
 
-## Anwalt (anzulegen)
-- **Rolle:** Scheidungsanwalt / Fachanwalt Familienrecht
-- **Status:** noch keiner mandatiert – Ava recherchiert Kandidaten Düsseldorf.
+## Anwalt-Kandidaten (recherchiert 20.07.2026)
+
+| # | Kanzlei | Schwerpunkt | Adresse | Telefon | Kontakt |
+|---|---|---|---|---|---|
+| 1 | **Schlun & Elseven** | Unternehmer-Scheidung, HNW, internationale Immobilien – am passendsten für deinen Fall | Düsseldorf | – | se-legal.de/online-anfrage |
+| 2 | **Benjamin Deutscher** | Fachanwalt Familienrecht, 5,0/5 ⭐ auf anwalt.de, Einzelkanzlei | Hüttenstr. 1, 40215 Düsseldorf | 0211 868 1456 | mail@ra-deutscher.de |
+| 3 | **Tondorf Böhm Leber** | Etabliert seit 1967, Fachanwalt Familienrecht (Niklas Böhm) | Scheibenstraße 47, 40479 Düsseldorf | 0211 864630 | kanzlei@tondorfboehm.de |
+
+**Empfehlung:** Schlun & Elseven zuerst kontaktieren – die haben explizit Unternehmer-/Vermögensscheidung und internationale Immobilien als Schwerpunkt, was exakt zu deinem Fall passt (Holding, SoD, Mallorca-Wohnung).
+
+- **Status:** noch keiner mandatiert.
