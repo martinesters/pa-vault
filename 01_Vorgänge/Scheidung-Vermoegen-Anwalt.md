@@ -38,6 +38,9 @@ Firmenanteile bleiben bei dir; nur ihr **Wertzuwachs während der Ehe** fließt 
 - **SoD:** 15 % Beteiligung, letzte Bewertung 60 Mio € → Martins Anteil = **9 Mio €**
 - **SoD gegründet 2017 → NACH der Heirat** → vollständig zugewinnrelevant
 
+## Kernergebnis Zugewinnausgleich (Stand 22.07.2026)
+**Martin zahlt Jana ~3 Mio €** (Grundlage: SoD-Nettowert 6 Mio €, alle 50/50-Positionen heben sich auf). Spielraum ±200–400 k je nach Endwerten.
+
 ## Noch offen
 - Meerbusch: aktueller Marktwert + Restschuld Grundschuld
 - ME Digital GmbH: Wert, 100 % Martin?

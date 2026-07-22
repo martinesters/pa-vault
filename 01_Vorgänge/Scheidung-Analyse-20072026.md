@@ -4,6 +4,45 @@
 
 ---
 
+## ⚡ Kernergebnis Zugewinnausgleich (Stand 22.07.2026)
+
+### Bestätigte Eckdaten
+| Fakt | Wert |
+|---|---|
+| Heirat | 14.09.2014 |
+| Trennung | 01.07.2025 (Trennungsjahr abgelaufen) |
+| Anfangsvermögen Martin | ~0 € (nix dokumentiert) |
+| SoD-Beteiligung | 15 % @ 60 Mio € Bewertung = **9 Mio €** |
+| SoD-Darlehen (Gegenposten) | −3 Mio € → **Netto 6 Mio €** |
+| SoD gegründet | 2017 → nach Heirat → **vollständig zugewinnrelevant** |
+| Mallorca | 50/50 Martin + Jana |
+| Meerbusch | 50/50 Martin + Jana |
+| ME Retail GmbH | 50/50 Martin + Jana |
+| ME Immobilienverwaltung GmbH | 50/50 Martin + Jana, Immos ~1 Mio € |
+
+### Vereinfachte Kernrechnung
+
+Da alle gemeinsamen Positionen (Mallorca, Meerbusch, ME Retail, ME Immo) **exakt 50/50** auf beiden Namen laufen, ist ihr Beitrag zum Zugewinn auf **beiden Seiten identisch** → sie heben sich in der Differenz vollständig auf.
+
+Der Zugewinnausgleich hängt damit fast ausschließlich an **SoD**:
+
+```
+Zugewinn Martin  = 6 Mio € (SoD netto) + X (50/50-Positionen) + Konten/Fz.
+Zugewinn Jana    =                    + X (50/50-Positionen) + eigene Konten
+
+Differenz        ≈ 6 Mio €
+Zugewinnausgleich = 6 Mio / 2 = ~3 Mio €
+```
+
+**→ Martin zahlt Jana ~3 Mio € Zugewinnausgleich** (ggf. ±200–400 k je nach Endwerten Konten/Fahrzeuge/ME Digital)
+
+### Noch nicht eingerechnet / offene Hebel
+- **ME Digital GmbH** (100 % Martin?): Wenn die Holding selbst einen signifikanten eigenständigen Wert hat (über den SoD-Anteil hinaus), erhöht das den Ausgleich.
+- **Meerbusch Marktwert + Restschuld**: Beide haben 50 % → hebt sich auf, aber wichtig für Gesamtvermögensbild.
+- **Janas Anfangsvermögen bei Heirat**: Falls > 0, reduziert das ihren Zugewinn → kann Ausgleich leicht senken.
+
+---
+
 ## 1. Zugewinngemeinschaft – was das wirklich bedeutet
 
 ### Das Grundprinzip (und das häufigste Missverständnis)
